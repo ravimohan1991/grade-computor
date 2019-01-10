@@ -33,7 +33,7 @@ It is quite simple to use the Grade Computor.  If you need any help, open up the
 
 Coding and Compiling
 ======================
-Download the latest JAVA IDE (or any of your favorite editor) NetBeans from [here] (https://netbeans.org).  Clone this repository on the local machine and add the project gradeComputor by traversing to the appropriate directory.  Hit on “Clean and Build Project”.  That is it.  In future I might add the appropriate Maven support.
+Download the latest JAVA IDE (or any of your favorite editor) NetBeans from [here] (https://netbeans.org).  Clone this repository on the local machine and add the project gradeComputor by traversing to the appropriate directory.  Hit on "Clean and Build Project".  That is it.  In future I might add the appropriate Maven support.
 
 
 THANKS
@@ -46,6 +46,6 @@ THANKS
 CHANGELOG
 ==========
 
-### Version 1.0 (Private)
+### Version 1.0 
 
 - Initial Release
