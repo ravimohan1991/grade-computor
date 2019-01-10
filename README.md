@@ -4,32 +4,18 @@ Grade Computor
 > [v1.0]
 
 Grade Computor is a handy utility to judge the relative grades of the class of students.  It provides a powerful interface to adjust grade cutoffs and display the quantitative information in a visually appealing manner.  This utility was designed for PHY102M course taught in University of Texas at Austin but is flexible enough to serve any other University’s requirements.
-
+[!Alt Text](/repofiles/screenshot.png)
 
 
 
 REQUIREMENTS
 ==================================================================================================
 
-Minimum
--------------
-* UnrealTournament G.O.T.Y v436
-* Working installation of ACEv08g/h
-
 Recommended
 -------------------
-* UnrealTournament G.O.T.Y v451
-* Working installation of ACEv08g/h
-* Working installation of IpToCountry (any version)
+* Java(TM) SE Runtime Environment 1.8.0_191-b12.
+* Any Operating System with the capability to run above JRE.
 
-ACEManager can also import Nexgen_Ban_Operators. For this feature you should have a working installation of
-Nexgen(version).
-
-Note: Different versions of Nexgen require different versions of ACEManager.
-Again Note: I have coded ACEManager such that it strictly depends on the particular version of Nexgen and ACE. If
-you have some homemade versions of any of these, you might want to refer Coding and Compiling section. If you dont
-use nexgen on your server, then just compile ACEManager using any nexgen( version ).u file and make sure that this
-file is present in your system directory.
 
 
 
