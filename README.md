@@ -4,7 +4,7 @@ Grade Computor
 > [v1.0]
 
 Grade Computor is a handy utility to judge the relative grades of the class of students.  It provides a powerful interface to adjust grade cutoffs and display the quantitative information in a visually appealing manner.  This utility was designed for PHY102M course taught in University of Texas at Austin but is flexible enough to serve any other University’s requirements.
-[!Alt Text](/repofiles/screenshot.png)
+![Alt Text](/repofiles/screenshot.png)
 
 
 
